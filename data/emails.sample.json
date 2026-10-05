@@ -1,0 +1,16 @@
+{
+ "updated": "2026-10-04T12:00:00Z",
+ "account": "you@example.com",
+ "window": "sample",
+ "items": [
+  {
+   "kind": "action",
+   "date": "2026-10-04",
+   "company": "Example Corp",
+   "role": "ML Engineer",
+   "summary": "Sample item: online assessment due.",
+   "link": "",
+   "due": "2026-10-06"
+  }
+ ]
+}

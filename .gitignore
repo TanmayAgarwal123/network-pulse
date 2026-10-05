@@ -1,0 +1,11 @@
+# Personal data never goes in this repository.
+# These files hold the names, employers and message snippets of real people.
+data/contacts.json
+data/emails.json
+data/state*.json
+dist/
+pipeline/notes.py
+*.csv
+*.pkl
+__pycache__/
+.DS_Store

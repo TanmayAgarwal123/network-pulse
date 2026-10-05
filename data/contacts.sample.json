@@ -1,0 +1,68 @@
+[
+ {
+  "id": "example-director",
+  "n": "Example Director (sample)",
+  "c": "Example Corp",
+  "p": "Director of Machine Learning",
+  "t": "Senior / hiring manager",
+  "s": 72,
+  "cd": 7,
+  "l": "",
+  "cn": "2026-01-15",
+  "no": 0,
+  "ni": 0,
+  "note": "Sample row. Connected Jan 2026; never messaged",
+  "act": "",
+  "dr": "",
+  "u": "https://www.linkedin.com/",
+  "h": [],
+  "tr": true,
+  "why": "director / principal / staff level; AI/ML role"
+ },
+ {
+  "id": "example-engineer",
+  "n": "Example Engineer (sample)",
+  "c": "Sample Labs",
+  "p": "Senior Software Engineer",
+  "t": "Engineer",
+  "s": 44,
+  "cd": 30,
+  "l": "2026-08-01",
+  "cn": "2025-09-01",
+  "no": 2,
+  "ni": 2,
+  "note": "Sample row. Two-way thread (4 msgs), last Aug 2026 (they spoke last)",
+  "act": "",
+  "dr": "",
+  "u": "https://www.linkedin.com/",
+  "h": [
+   [
+    "2026-08-01",
+    "in",
+    "Sample message: happy to chat next week."
+   ]
+  ],
+  "tr": true,
+  "why": "two-way thread (4 msgs)"
+ },
+ {
+  "id": "example-recruiter",
+  "n": "Example Recruiter (sample)",
+  "c": "Demo Inc",
+  "p": "Technical Recruiter",
+  "t": "Recruiter",
+  "s": 38,
+  "cd": 30,
+  "l": "",
+  "cn": "2026-06-10",
+  "no": 0,
+  "ni": 0,
+  "note": "Sample row. Connected Jun 2026; never messaged",
+  "act": "",
+  "dr": "",
+  "u": "https://www.linkedin.com/",
+  "h": [],
+  "tr": true,
+  "why": "in-house recruiter"
+ }
+]
